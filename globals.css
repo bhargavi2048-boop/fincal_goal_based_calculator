@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:focus-visible {
+  outline: 3px solid #da3832;
+  outline-offset: 3px;
+}
+
+html, body { height: 100%; }
+
+body {
+  @apply bg-white text-slate-900 font-sans;
+}
+
+a { @apply underline underline-offset-4; }
+
+.container-pad { @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { scroll-behavior: auto !important; transition: none !important; animation: none !important; }
+}
