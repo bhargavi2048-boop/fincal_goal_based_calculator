@@ -11,7 +11,7 @@
 **A transparent, goal-based investment calculator built for investor education.**  
 Understand how inflation and return assumptions shape your financial future.
 
-[🚀 Live App](https://fincal-goal-calculator.vercel.app) · [📹 Demo Video](https://drive.google.com/file/d/1M2u-xDHvUjQdmEuqxqzkGpzCwhO6juEB/view?usp=sharing) · [💻 Repository](https://github.com/bhargavi2048-boop/Fincal-goal-based-calculator)
+[🚀 Live App](https://fincal-goal-calculator.vercel.app) · [📹 Demo Video](https://drive.google.com/file/d/1M2u-xDHvUjQdmEuqxqzkGpzCwhO6juEB/view?usp=sharing) · [💻 Repository]((https://github.com/bhargavi2048-boop/fincal_goal_based_calculator.git))
 
 </div>
 
