@@ -270,7 +270,7 @@ Full implementation notes are available on the [Accessibility page](/accessibili
 **Bhargavi N**
 
 - GitHub: [@bhargavi2048-boop](https://github.com/bhargavi2048-boop)
-- Repository: [Fincal-goal-based-calculator](https://github.com/bhargavi2048-boop/Fincal-goal-based-calculator)
+- Repository: [Fincal-goal-based-calculator](https://github.com/bhargavi2048-boop/fincal_goal_based_calculator.git)
 
 ---
 
